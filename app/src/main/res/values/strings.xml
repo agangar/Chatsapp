@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Chatsapp</string>
+    <string name="click_here_to_register">Click here to register</string>
+    <string name="login">Login</string>
+    <string name="enter_password">enter password</string>
+    <string name="enter_username">enter username</string>
+    <string name="click_here_to_login">Click here to login</string>
+    <string name="register">Register</string>
+    <string name="no_users_found">No users found!</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="button">Button</string>
+    <string name="send">Send</string>
+    <string name="group_chat">Group Chat</string>
+    <string name="talk_better_be_better">Talk better, be better.</string>
+    <string name="your_password_is">Your password is:</string>
+    <string name="submit">SUBMIT</string>
+    <string name="your_password_will_appear_here">Your password will appear here</string>
+    <string name="enter_your_username">Enter your Username</string>
+    <string name="enter_your_username1">Enter your Username</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="refre">refresh</string>
+    <string name="type_here">Type here</string>
+</resources>
